@@ -10,7 +10,7 @@ export const siteConfig = {
   apkUrl:
     import.meta.env.VITE_MYACUMEN_APK_URL ||
     "https://github.com/tboydigitalz-stack/myacumen-website/releases/latest/download/MyAcumen.apk",
-  version: import.meta.env.VITE_MYACUMEN_VERSION || "1.2.0",
+  version: import.meta.env.VITE_MYACUMEN_VERSION || "1.3.0",
 
   feedbackUrl:
     import.meta.env.VITE_MYACUMEN_FEEDBACK_URL || "https://forms.gle/Ndm6aVN6zndJuLTX8",
